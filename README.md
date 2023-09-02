@@ -1,9 +1,9 @@
 # Description :-
 
-### • Developed a scalable and performant video streaming app using React, Tailwind, React Router, and Redux, powered by Youtube's Live API which loads within 200ms.
-### • Implemented debouncing with a 200ms delay to reduce API calls on frequent key presses, and optimized search by storing results in the cache using Redux store.
-### • Established lazy loading with Suspense and custom hooks to enhance user experience and performance, and implemented live chat using API Polling.
-### • Innovated with Config-Driven UI, Nested Comments and Shimmer UI for loading animations.
+• Developed a scalable and performant video streaming app using React, Tailwind, React Router, and Redux, powered by Youtube's Live API which loads within 200ms.\
+• Implemented debouncing with a 200ms delay to reduce API calls on frequent key presses, and optimized search by storing results in the cache using Redux store.\
+• Established lazy loading with Suspense and custom hooks to enhance user experience and performance, and implemented live chat using API Polling.\
+• Innovated with Config-Driven UI, Nested Comments and Shimmer UI for loading animations.\
 
 # Getting Started with Create React App
 
